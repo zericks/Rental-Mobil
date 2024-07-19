@@ -1,0 +1,27 @@
+﻿  main.cpp
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(330,13): warning C4101: 'choice': unreferenced local variable
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(528,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(577,64): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(577,64): warning C4267:         with
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(577,64): warning C4267:         [
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(577,64): warning C4267:             _Ty=int
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(577,64): warning C4267:         ]
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(894,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(928,64): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(928,64): warning C4267:         with
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(928,64): warning C4267:         [
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(928,64): warning C4267:             _Ty=int
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(928,64): warning C4267:         ]
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(1424,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(1455,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(1464,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(1375,9): warning C4101: 'durasi': unreferenced local variable
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(1664,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(1695,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(1704,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(1895,64): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(1895,64): warning C4267:         with
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(1895,64): warning C4267:         [
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(1895,64): warning C4267:             _Ty=int
+D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\Rental Mobil\main.cpp(1895,64): warning C4267:         ]
+  Rental Mobil.vcxproj -> D:\23.11.5729\Rental Mobil (Final)\Rental Mobil\x64\Debug\Rental Mobil.exe
